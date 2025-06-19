@@ -1,0 +1,13 @@
+higher order function
+function expression
+arrow function
+anonymous function
+callback function
+
+scope: block, functional, global
+closure:
+fetch(http(get,post,put,delete))
+json(javascript object notation)
+string methods
+array methods
+number methods
