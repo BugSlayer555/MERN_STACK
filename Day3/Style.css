@@ -1,0 +1,30 @@
+*{
+    text-decoration: none;
+    color: teal;
+
+}
+body{
+    background-color: black;
+}
+h1{
+    color: teal;
+}
+.nav ul{
+    display: flex;
+    gap: 30px;
+    
+}
+span{
+    font-size: 27px;
+}
+img{
+    margin-left: 15px;
+
+}
+
+@media(max-width:768px){
+    body{
+        background-color: darkgrey;
+    }
+
+}
